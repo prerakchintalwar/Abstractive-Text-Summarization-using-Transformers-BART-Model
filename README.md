@@ -32,8 +32,6 @@ BART stands for Bidirectional and Auto-Regressive Transformer. Its primary featu
 _BART Model Architecture_
 To understand the BART transformer, one needs to closely look at BERT and GPT. BERT performs the Masked Language Modelling with the help of its bidirectional transformer and predicts the missing values. On the other hand, GPT uses its autoregressive decoder to predict the next token in a sentence. Merging both of these results in the BART model, as depicted in the image below.
 
-![image](https://github.com/prerakchintalwar/Abstractive-Text-Summarization-using-Transformers-BART-Model/assets/54786504/dd2d7bff-d9e6-4e6c-8278-6e7a0137dcb6)
-
 
 _BART Pre-training_
 
